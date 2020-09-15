@@ -1,0 +1,22 @@
+= City Weather App Rest API Reference docs
+:icons: font
+:source-highlighter: prettify
+:toc: top
+:toclevels: 4
+:sectlinks:
+
+
+== Weather API's
+
+.Request Structure
+include::{snippets}/weather/http-request.adoc[]
+
+.Request Parameters
+include::{snippets}/weather/request-parameters.adoc[]
+
+.Example Response
+include::{snippets}/weather/http-response.adoc[]
+
+.CURL Request
+include::{snippets}/weather/curl-request.adoc[]
+

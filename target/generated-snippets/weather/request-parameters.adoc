@@ -1,0 +1,7 @@
+|===
+|Parameter|Description
+
+|`+name+`
+|The city name whose weather information is requested
+
+|===

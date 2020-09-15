@@ -1,0 +1,10 @@
+/Volumes/MyWorkshop/ATW/Rough-Note/weather_info_java_api/src/main/java/com/weatherapp/controller/WeatherInformationController.java
+/Volumes/MyWorkshop/ATW/Rough-Note/weather_info_java_api/src/main/java/com/weatherapp/util/UrlMappings.java
+/Volumes/MyWorkshop/ATW/Rough-Note/weather_info_java_api/src/main/java/com/weatherapp/model/Error.java
+/Volumes/MyWorkshop/ATW/Rough-Note/weather_info_java_api/src/main/java/com/weatherapp/WeatherappApplication.java
+/Volumes/MyWorkshop/ATW/Rough-Note/weather_info_java_api/src/main/java/com/weatherapp/exception/AppExceptionHandler.java
+/Volumes/MyWorkshop/ATW/Rough-Note/weather_info_java_api/src/main/java/com/weatherapp/config/WeatherappApplicationConfig.java
+/Volumes/MyWorkshop/ATW/Rough-Note/weather_info_java_api/src/main/java/com/weatherapp/service/WeatherService.java
+/Volumes/MyWorkshop/ATW/Rough-Note/weather_info_java_api/src/main/java/com/weatherapp/service/OpenWeatherMapService.java
+/Volumes/MyWorkshop/ATW/Rough-Note/weather_info_java_api/src/main/java/com/weatherapp/model/OpenWeatherMapResponse.java
+/Volumes/MyWorkshop/ATW/Rough-Note/weather_info_java_api/src/main/java/com/weatherapp/model/Weather.java
