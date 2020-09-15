@@ -1,4 +1,0 @@
-[source,options="nowrap"]
-----
-{"condition":"broken clouds","temperature":26.37,"wind_speed":1.18}
-----

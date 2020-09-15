@@ -1,3 +1,0 @@
-openweathermap:
-  url: http://api.openweathermap.org/data/2.5/weather
-  apiKey: c2395dafd752b24690e1cdd50b5a6972
